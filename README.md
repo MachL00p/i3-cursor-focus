@@ -1,2 +1,2 @@
 # i3-cursor-focus
-Small python script to change the behaviour of i3 cursor.
+Small python script to change the behavior of i3 cursor, using the i3ipc library and xdotools.
